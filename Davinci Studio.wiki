@@ -1,6 +1,6 @@
  = Davinci Resolve Studio =
 Installationsanleitung unter Arch
-gilt für die Studio Version, aber funktioniert auch für die Free
+gilt für die Studio Version, aber funktioniert auch für die Free nit ein paar anpassungen.
 
 {{{class="brush: bash"
 yay -S davinci-resolve-studio
